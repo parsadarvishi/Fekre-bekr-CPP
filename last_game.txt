@@ -1,36 +1,37 @@
  Choose Game Mode :
    1- With diffrent pins     2-With same pins
-1
+2
  the game choosed it's pins now its your turn to guess the pins. 
  The pins Are : A B C D E F G H
 you can try 10times more to go
-abcd
-    TTXX
+aaaa
+    XXXX
          you have 9 times more to go GOOD LUCK
-abef
-    TTXX
+aaaa
+    XXXX
          you have 8 times more to go GOOD LUCK
-abgh
-    PTXX
+aaaa
+    XXXX
          you have 7 times more to go GOOD LUCK
-aghf
-    TTXX
+bbbb
+    PXXX
          you have 6 times more to go GOOD LUCK
-aecd
-    TXXX
+dddd
+    PXXX
          you have 5 times more to go GOOD LUCK
-aecf
-    TTXX
+dddd
+    PXXX
          you have 4 times more to go GOOD LUCK
-abef
-    TTXX
+dddd
+    PXXX
          you have 3 times more to go GOOD LUCK
-ebcf
-    TTTX
+dddd
+    PXXX
          you have 2 times more to go GOOD LUCK
-hbcf
-    TTTX
+dddd
+    PXXX
          you have 1 times more to go GOOD LUCK
-gbcf
-    TTTT
-*****You lose*****2592Game pins were :B F G C 
+dddd
+    PXXX
+*****You lose*****
+Game pins were :  H C B D 

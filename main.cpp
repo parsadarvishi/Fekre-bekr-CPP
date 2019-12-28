@@ -170,8 +170,10 @@ int main(int argc, char** argv)
         }
     }
 
-    cout << "*****You lose*****" << '\n ' << "Game pins were :";
-    lg << "*****You lose*****" << '\n ' << "Game pins were :";
+    cout << "*****You lose*****" << endl;
+    cout  << "Game pins were :  ";
+    lg << "*****You lose*****" << endl;
+    lg << "Game pins were :  ";
         for( int i = 0 ; i<4 ; i++){
     	cout << game_pins[i] << " ";
     	lg << game_pins[i] << " ";
